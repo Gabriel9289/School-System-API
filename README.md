@@ -4,7 +4,7 @@ A REST API for managing a school — built with FastAPI, SQLAlchemy, and Postgre
 
 ## Live URL
 
-Coming soon — deploying on Railway.
+deploying on Railway: https://web-production-134b2.up.railway.app/
 
 ---
 
